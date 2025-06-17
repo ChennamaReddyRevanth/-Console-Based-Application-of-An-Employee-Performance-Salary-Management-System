@@ -45,40 +45,32 @@ employee_management_system/
 - Export all data to `employees.csv`  
 - Plot performance and rating charts  
 
-##  Sample Run
-
-```bash
-========== EMPLOYEE MANAGEMENT SYSTEM ==========
-1. Add New Employee
-2. Add New Manager
-3. View All Employees
-4. Update Performance Score
-5. View Rating Report
-6. Salary Statistics
-7. Export All Data to CSV
-8. Exit
-
 ## Sample Charts
-
 Employee Performance (Avg Score by Name)  
 Rating Distribution (A/B/C/D/F)  
-Run options 9 and 10 in the CLI to generate plots using matplotlib and seaborn.  
+Run options 9 and 10 in the CLI to generate plots using matplotlib and seaborn.
 
 ## How to Run
+bash
+Copy
+Edit
+# Clone the repository
+git clone https://github.com/yourusername/employee-performance-system.git
+cd employee-performance-system
 
-### Clone the repository  
-git clone https://github.com/yourusername/employee-performance-system.git  
-cd employee-performance-system  
-
-## Install dependencies
+# Install dependencies
 pip install pandas numpy matplotlib seaborn
 
-## Run the application
+# Run the application
 python main.py
 
-## Deliverables  
+## Deliverables
  Class-based OOP design  
  Modular package structure  
  CSV Export functionality  
  CLI-based interaction  
- Visualizations with Seaborn  
+ Visualizations with Seaborn
+
+
+
+   
