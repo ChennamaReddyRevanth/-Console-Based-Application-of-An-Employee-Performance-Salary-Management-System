@@ -1,0 +1,5 @@
+emp_id,name,department,salary,avg_score,rating,team_size
+E001,Mani,security,45000.0,75.0,B,
+E002,Ramesh,Financial ,55000.0,59.0,D,
+E003,Firdose,Financial ,35000.0,46.33,D,
+E004,Dinesh,Product Management,80000.0,98.0,A,30.0
