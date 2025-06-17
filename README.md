@@ -51,17 +51,15 @@ Rating Distribution (A/B/C/D/F)
 Run options 9 and 10 in the CLI to generate plots using matplotlib and seaborn.
 
 ## How to Run
-bash
-Copy
-Edit
-# Clone the repository
+
+#### Clone the repository
 git clone https://github.com/yourusername/employee-performance-system.git
 cd employee-performance-system
 
-# Install dependencies
+#### Install dependencies
 pip install pandas numpy matplotlib seaborn
 
-# Run the application
+#### Run the application
 python main.py
 
 ## Deliverables
